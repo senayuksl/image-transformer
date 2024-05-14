@@ -181,7 +181,7 @@ end
 
 function tespit(secilenRenk)
     % Resmi yükle
-    resim = imread('s5.jpg'); % Resmin dosya yolunu belirt
+    resim = imread('3.jpg'); % Resmin dosya yolunu belirt
     % Resmi hsv'ye dönüştür
     hsv_image = rgb2hsv(resim);
     
